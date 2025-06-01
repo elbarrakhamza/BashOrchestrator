@@ -1,0 +1,15 @@
+RAPPORT D'EXÉCUTION
+Alias: long
+Mode: fork
+Début: 2025-06-01 19:03:30
+Fin: 2025-06-01 19:03:33
+Durée: 3s
+Code Sortie: 0
+Statut: SUCCES
+--- STDOUT ---
+Début de script_long.sh (va dormir 3 secondes)...
+script_long.sh a terminé son attente.
+Sun Jun  1 07:03:33 PM +01 2025
+Fin de script_long.sh.
+--- STDERR ---
+Fin Rapport.

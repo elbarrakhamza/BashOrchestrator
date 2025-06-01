@@ -1,0 +1,14 @@
+RAPPORT D'EXÉCUTION
+Alias: create_flag
+Mode: fork
+Début: 2025-06-01 18:58:23
+Fin: 2025-06-01 18:58:23
+Durée: 0s
+Code Sortie: 0
+Statut: SUCCES
+--- STDOUT ---
+Bonjour de script_creation_fichier.sh (modifié).
+Je vais créer le fichier indicateur : indicateur_script_precedent.txt dans le répertoire courant.
+Fichier indicateur 'indicateur_script_precedent.txt' créé avec succès.
+--- STDERR ---
+Fin Rapport.

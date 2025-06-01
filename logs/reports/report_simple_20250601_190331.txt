@@ -1,0 +1,16 @@
+RAPPORT D'EXÉCUTION
+Alias: simple
+Mode: fork
+Début: 2025-06-01 19:03:30
+Fin: 2025-06-01 19:03:30
+Durée: 0s
+Code Sortie: 0
+Statut: SUCCES
+--- STDOUT ---
+Bonjour de script_simple.sh !
+Ce script a été appelé avec 0 argument(s).
+Aucun argument n'a été fourni.
+Variable d'environnement TEST_VAR: Non définie
+Fin de script_simple.sh.
+--- STDERR ---
+Fin Rapport.

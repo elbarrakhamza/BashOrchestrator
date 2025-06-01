@@ -1,0 +1,5 @@
+RAPPORT (LANCEMENT BG)
+Alias: simple
+Mode: background
+Lancé: 2025-06-01 19:02:58
+PID: 2733

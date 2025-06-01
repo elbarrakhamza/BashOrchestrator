@@ -1,0 +1,14 @@
+RAPPORT D'EXÉCUTION
+Alias: erreur
+Mode: fork
+Début: 2025-06-01 19:00:36
+Fin: 2025-06-01 19:00:36
+Durée: 0s
+Code Sortie: 55
+Statut: ECHEC
+--- STDOUT ---
+Message normal avant l'erreur (stdout).
+--- STDERR ---
+ERREUR: Une condition d'erreur simulée va se produire ! (stderr)
+Fin de script_erreur.sh avant de sortir avec un code d'erreur.
+Fin Rapport.

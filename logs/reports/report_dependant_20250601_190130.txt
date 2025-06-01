@@ -1,0 +1,14 @@
+RAPPORT D'EXÉCUTION
+Alias: dependant
+Mode: subshell
+Début: 2025-06-01 19:01:30
+Fin: 2025-06-01 19:01:30
+Durée: 0s
+Code Sortie: 0
+Statut: SUCCES
+--- STDOUT ---
+Bonjour de script_dependant.sh.
+L'indicateur du script précédent a été trouvé !
+Fin de script_dependant.sh - SUCCES.
+--- STDERR ---
+Fin Rapport.

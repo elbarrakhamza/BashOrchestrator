@@ -1,0 +1,17 @@
+RAPPORT D'EXÉCUTION
+Alias: simple
+Mode: subshell
+Début: 2025-06-01 18:55:35
+Fin: 2025-06-01 18:55:35
+Durée: 0s
+Code Sortie: 0
+Statut: SUCCES
+--- STDOUT ---
+Bonjour de script_simple.sh !
+Ce script a été appelé avec 1 argument(s).
+Arguments reçus :
+  Arg 1: Subshell Test
+Variable d'environnement TEST_VAR: Non définie
+Fin de script_simple.sh.
+--- STDERR ---
+Fin Rapport.

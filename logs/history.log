@@ -1,0 +1,825 @@
+2025-06-01-18-48-12 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-48-12 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-48-12 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-48-12 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-48-12 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-48-12 : elbarrak : DEBUG : Commande: 'list', Mode Exec global: '', Restore: '0', Args: []
+2025-06-01-18-48-12 : elbarrak : INFOS : Exécution de la commande 'list'.
+2025-06-01-18-48-12 : elbarrak : INFOS : Aucun script à lister.
+2025-06-01-18-48-12 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'list'.
+2025-06-01-18-48-29 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-48-29 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-48-29 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-48-29 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-48-29 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-48-29 : elbarrak : DEBUG : Commande: 'add', Mode Exec global: '', Restore: '0', Args: [./test_scripts/script_boucle_intensive.sh boucle]
+2025-06-01-18-48-29 : elbarrak : DEBUG : Cmd 'add': path='./test_scripts/script_boucle_intensive.sh', alias='boucle'
+2025-06-01-18-48-29 : elbarrak : INFOS : Script './test_scripts/script_boucle_intensive.sh' ajouté (alias: 'boucle', géré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/boucle.sh).
+2025-06-01-18-48-29 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'add'.
+2025-06-01-18-48-31 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-48-31 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-48-31 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-48-31 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-48-31 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-48-31 : elbarrak : DEBUG : Commande: 'list', Mode Exec global: '', Restore: '0', Args: []
+2025-06-01-18-48-31 : elbarrak : INFOS : Exécution de la commande 'list'.
+2025-06-01-18-48-31 : elbarrak : INFOS : Liste des scripts affichée à l'utilisateur.
+2025-06-01-18-48-31 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'list'.
+2025-06-01-18-52-36 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-52-36 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-52-36 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-52-36 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-52-36 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-52-36 : elbarrak : DEBUG : Commande: 'list', Mode Exec global: '', Restore: '0', Args: []
+2025-06-01-18-52-36 : elbarrak : INFOS : Exécution de la commande 'list'.
+2025-06-01-18-52-36 : elbarrak : INFOS : Liste des scripts affichée à l'utilisateur.
+2025-06-01-18-52-36 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'list'.
+2025-06-01-18-52-40 : elbarrak : INFOS : Aide principale demandée par l'utilisateur.
+2025-06-01-18-52-56 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-52-56 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-52-56 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-52-56 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-52-56 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-52-56 : elbarrak : DEBUG : Commande: 'add', Mode Exec global: '', Restore: '0', Args: [./test_scripts/script_simple.sh simple]
+2025-06-01-18-52-56 : elbarrak : DEBUG : Cmd 'add': path='./test_scripts/script_simple.sh', alias='simple'
+2025-06-01-18-52-56 : elbarrak : INFOS : Script './test_scripts/script_simple.sh' ajouté (alias: 'simple', géré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh).
+2025-06-01-18-52-56 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'add'.
+2025-06-01-18-53-05 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-53-05 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-53-05 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-53-05 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-53-05 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-53-05 : elbarrak : DEBUG : Commande: 'add', Mode Exec global: '', Restore: '0', Args: [./test_scripts/script_erreur.sh erreur]
+2025-06-01-18-53-05 : elbarrak : DEBUG : Cmd 'add': path='./test_scripts/script_erreur.sh', alias='erreur'
+2025-06-01-18-53-05 : elbarrak : INFOS : Script './test_scripts/script_erreur.sh' ajouté (alias: 'erreur', géré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/erreur.sh).
+2025-06-01-18-53-05 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'add'.
+2025-06-01-18-53-12 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-53-12 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-53-12 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-53-12 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-53-12 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-53-12 : elbarrak : DEBUG : Commande: 'add', Mode Exec global: '', Restore: '0', Args: [./test_scripts/script_long.sh long]
+2025-06-01-18-53-12 : elbarrak : DEBUG : Cmd 'add': path='./test_scripts/script_long.sh', alias='long'
+2025-06-01-18-53-12 : elbarrak : INFOS : Script './test_scripts/script_long.sh' ajouté (alias: 'long', géré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/long.sh).
+2025-06-01-18-53-12 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'add'.
+2025-06-01-18-53-19 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-53-20 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-53-20 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-53-20 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-53-20 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-53-20 : elbarrak : DEBUG : Commande: 'add', Mode Exec global: '', Restore: '0', Args: [./test_scripts/script_interactif.sh interactif]
+2025-06-01-18-53-20 : elbarrak : DEBUG : Cmd 'add': path='./test_scripts/script_interactif.sh', alias='interactif'
+2025-06-01-18-53-20 : elbarrak : INFOS : Script './test_scripts/script_interactif.sh' ajouté (alias: 'interactif', géré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/interactif.sh).
+2025-06-01-18-53-20 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'add'.
+2025-06-01-18-53-26 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-53-26 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-53-26 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-53-26 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-53-26 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-53-26 : elbarrak : DEBUG : Commande: 'add', Mode Exec global: '', Restore: '0', Args: [./test_scripts/script_sortie_mixte.sh mixte]
+2025-06-01-18-53-26 : elbarrak : DEBUG : Cmd 'add': path='./test_scripts/script_sortie_mixte.sh', alias='mixte'
+2025-06-01-18-53-26 : elbarrak : INFOS : Script './test_scripts/script_sortie_mixte.sh' ajouté (alias: 'mixte', géré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/mixte.sh).
+2025-06-01-18-53-26 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'add'.
+2025-06-01-18-53-32 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-53-32 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-53-32 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-53-32 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-53-32 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-53-32 : elbarrak : DEBUG : Commande: 'add', Mode Exec global: '', Restore: '0', Args: [./test_scripts/script_creation_fichier.sh creation]
+2025-06-01-18-53-32 : elbarrak : DEBUG : Cmd 'add': path='./test_scripts/script_creation_fichier.sh', alias='creation'
+2025-06-01-18-53-32 : elbarrak : INFOS : Script './test_scripts/script_creation_fichier.sh' ajouté (alias: 'creation', géré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/creation.sh).
+2025-06-01-18-53-32 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'add'.
+2025-06-01-18-53-40 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-53-40 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-53-40 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-53-40 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-53-40 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-53-40 : elbarrak : DEBUG : Commande: 'add', Mode Exec global: '', Restore: '0', Args: [./test_scripts/script_boucle_intensive.sh boucle]
+2025-06-01-18-53-40 : elbarrak : DEBUG : Cmd 'add': path='./test_scripts/script_boucle_intensive.sh', alias='boucle'
+2025-06-01-18-53-40 : elbarrak : ERROR : Code 124: Alias 'boucle' existe déjà.
+2025-06-01-18-53-40 : elbarrak : INFOS : Aide principale demandée par l'utilisateur.
+2025-06-01-18-53-47 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-53-47 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-53-47 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-53-47 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-53-47 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-53-47 : elbarrak : DEBUG : Commande: 'list', Mode Exec global: '', Restore: '0', Args: []
+2025-06-01-18-53-47 : elbarrak : INFOS : Exécution de la commande 'list'.
+2025-06-01-18-53-47 : elbarrak : INFOS : Liste des scripts affichée à l'utilisateur.
+2025-06-01-18-53-47 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'list'.
+2025-06-01-18-54-20 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-54-20 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-54-20 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-54-20 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-54-20 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-54-20 : elbarrak : DEBUG : Commande: 'run', Mode Exec global: '', Restore: '0', Args: [simple Arg1 Arg 2 avec espaces]
+2025-06-01-18-54-20 : elbarrak : DEBUG : run_script: alias 'simple' mode 'fork' args [Arg1 Arg 2 avec espaces]
+2025-06-01-18-54-20 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 18:54:20 (mode: fork)
+2025-06-01-18-54-20 : elbarrak : DEBUG : run_script: 'simple' en mode fork/normal.
+2025-06-01-18-54-20 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-18-54-20 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-18-54-20 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 2 argument(s).
+2025-06-01-18-54-20 : elbarrak : INFOS : [simple] STDOUT: Arguments reçus :
+2025-06-01-18-54-20 : elbarrak : INFOS : [simple] STDOUT:   Arg 1: Arg1
+2025-06-01-18-54-20 : elbarrak : INFOS : [simple] STDOUT:   Arg 2: Arg 2 avec espaces
+2025-06-01-18-54-20 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-18-54-20 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-18-54-20 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-18-54-20 : elbarrak : INFOS : Rapport pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_20250601_185420.txt
+2025-06-01-18-54-20 : elbarrak : INFOS : Script 'simple' terminé succès (code: 0).
+2025-06-01-18-54-20 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run'.
+2025-06-01-18-54-54 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-54-54 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-54-54 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-54-54 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-54-54 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-54-54 : elbarrak : DEBUG : Commande: 'run', Mode Exec global: '', Restore: '0', Args: [simple Subshell Test]
+2025-06-01-18-54-54 : elbarrak : DEBUG : run_script: alias 'simple' mode 'fork' args [Subshell Test]
+2025-06-01-18-54-54 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 18:54:54 (mode: fork)
+2025-06-01-18-54-55 : elbarrak : DEBUG : run_script: 'simple' en mode fork/normal.
+2025-06-01-18-54-55 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-18-54-55 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-18-54-55 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 1 argument(s).
+2025-06-01-18-54-55 : elbarrak : INFOS : [simple] STDOUT: Arguments reçus :
+2025-06-01-18-54-55 : elbarrak : INFOS : [simple] STDOUT:   Arg 1: Subshell Test
+2025-06-01-18-54-55 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-18-54-55 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-18-54-55 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-18-54-55 : elbarrak : INFOS : Rapport pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_20250601_185455.txt
+2025-06-01-18-54-55 : elbarrak : INFOS : Script 'simple' terminé succès (code: 0).
+2025-06-01-18-54-55 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run'.
+2025-06-01-18-55-35 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-55-35 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-55-35 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-55-35 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-55-35 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-55-35 : elbarrak : DEBUG : Commande: 'run', Mode Exec global: 'subshell', Restore: '0', Args: [simple Subshell Test]
+2025-06-01-18-55-35 : elbarrak : DEBUG : run_script: alias 'simple' mode 'subshell' args [Subshell Test]
+2025-06-01-18-55-35 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 18:55:35 (mode: subshell)
+2025-06-01-18-55-35 : elbarrak : DEBUG : run_script: 'simple' en subshell.
+2025-06-01-18-55-35 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-18-55-35 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-18-55-35 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 1 argument(s).
+2025-06-01-18-55-35 : elbarrak : INFOS : [simple] STDOUT: Arguments reçus :
+2025-06-01-18-55-35 : elbarrak : INFOS : [simple] STDOUT:   Arg 1: Subshell Test
+2025-06-01-18-55-35 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-18-55-35 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-18-55-35 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-18-55-35 : elbarrak : INFOS : Rapport pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_20250601_185535.txt
+2025-06-01-18-55-35 : elbarrak : INFOS : Script 'simple' terminé succès (code: 0).
+2025-06-01-18-55-35 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run'.
+2025-06-01-18-55-58 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-55-58 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-55-58 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-55-58 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-55-58 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-55-58 : elbarrak : DEBUG : Commande: 'run', Mode Exec global: 'background', Restore: '0', Args: [simple Subshell Test]
+2025-06-01-18-55-58 : elbarrak : DEBUG : run_script: alias 'simple' mode 'background' args [Subshell Test]
+2025-06-01-18-55-58 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 18:55:58 (mode: background)
+2025-06-01-18-55-58 : elbarrak : DEBUG : run_script: 'simple' en arrière-plan.
+2025-06-01-18-55-58 : elbarrak : INFOS : Script 'simple' lancé en bg (PID: 2094).
+2025-06-01-18-55-58 : elbarrak : INFOS : Rapport lancement bg pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_launched_20250601_185558.txt
+2025-06-01-18-55-58 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-18-55-58 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-18-55-58 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 1 argument(s).
+2025-06-01-18-55-58 : elbarrak : INFOS : [simple] STDOUT: Arguments reçus :
+2025-06-01-18-55-58 : elbarrak : INFOS : [simple] STDOUT:   Arg 1: Subshell Test
+2025-06-01-18-55-58 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-18-55-58 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-18-55-58 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-18-55-58 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run'.
+2025-06-01-18-56-24 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-56-24 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-56-24 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-56-24 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-56-24 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-56-24 : elbarrak : DEBUG : Commande: 'run', Mode Exec global: 'fork', Restore: '0', Args: [simple Subshell Test]
+2025-06-01-18-56-24 : elbarrak : DEBUG : run_script: alias 'simple' mode 'fork' args [Subshell Test]
+2025-06-01-18-56-24 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 18:56:24 (mode: fork)
+2025-06-01-18-56-24 : elbarrak : DEBUG : run_script: 'simple' en mode fork/normal.
+2025-06-01-18-56-24 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-18-56-24 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-18-56-24 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 1 argument(s).
+2025-06-01-18-56-24 : elbarrak : INFOS : [simple] STDOUT: Arguments reçus :
+2025-06-01-18-56-24 : elbarrak : INFOS : [simple] STDOUT:   Arg 1: Subshell Test
+2025-06-01-18-56-24 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-18-56-24 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-18-56-24 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-18-56-24 : elbarrak : INFOS : Rapport pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_20250601_185624.txt
+2025-06-01-18-56-24 : elbarrak : INFOS : Script 'simple' terminé succès (code: 0).
+2025-06-01-18-56-24 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run'.
+2025-06-01-18-56-54 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-56-54 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-56-54 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-56-54 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-56-54 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-56-54 : elbarrak : DEBUG : Commande: 'run', Mode Exec global: 'fork', Restore: '0', Args: [simple Fork Test]
+2025-06-01-18-56-54 : elbarrak : DEBUG : run_script: alias 'simple' mode 'fork' args [Fork Test]
+2025-06-01-18-56-55 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 18:56:54 (mode: fork)
+2025-06-01-18-56-55 : elbarrak : DEBUG : run_script: 'simple' en mode fork/normal.
+2025-06-01-18-56-55 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-18-56-55 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-18-56-55 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 1 argument(s).
+2025-06-01-18-56-55 : elbarrak : INFOS : [simple] STDOUT: Arguments reçus :
+2025-06-01-18-56-55 : elbarrak : INFOS : [simple] STDOUT:   Arg 1: Fork Test
+2025-06-01-18-56-55 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-18-56-55 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-18-56-55 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-18-56-55 : elbarrak : INFOS : Rapport pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_20250601_185655.txt
+2025-06-01-18-56-55 : elbarrak : INFOS : Script 'simple' terminé succès (code: 0).
+2025-06-01-18-56-55 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run'.
+2025-06-01-18-57-18 : elbarrak : INFOS : Aide principale demandée par l'utilisateur.
+2025-06-01-18-57-32 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-57-32 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-57-32 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-57-32 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-57-32 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-57-32 : elbarrak : DEBUG : Commande: 'run-sequence', Mode Exec global: '', Restore: '0', Args: [create_flag dependant]
+2025-06-01-18-57-32 : elbarrak : INFOS : Lancement séquence: [create_flag dependant] (Mode global: 'normal')
+2025-06-01-18-57-32 : elbarrak : INFOS : Séquence: Exécution de 'create_flag' (après 'START').
+2025-06-01-18-57-32 : elbarrak : DEBUG : run_script: alias 'create_flag' mode 'fork' args []
+2025-06-01-18-57-32 : elbarrak : ERROR : run_script: Alias 'create_flag' non trouvé.
+2025-06-01-18-57-32 : elbarrak : ERROR : Séquence: Script 'create_flag' a échoué (code: 161). Arrêt de la séquence.
+2025-06-01-18-57-32 : elbarrak : ERROR : Séquence interrompue par une erreur.
+2025-06-01-18-57-32 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-sequence'.
+2025-06-01-18-58-14 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-58-14 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-58-14 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-58-14 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-58-14 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-58-14 : elbarrak : DEBUG : Commande: 'add', Mode Exec global: '', Restore: '0', Args: [./test_scripts/script_creation_fichier.sh create_flag]
+2025-06-01-18-58-14 : elbarrak : DEBUG : Cmd 'add': path='./test_scripts/script_creation_fichier.sh', alias='create_flag'
+2025-06-01-18-58-14 : elbarrak : INFOS : Script './test_scripts/script_creation_fichier.sh' ajouté (alias: 'create_flag', géré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/create_flag.sh).
+2025-06-01-18-58-14 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'add'.
+2025-06-01-18-58-23 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-58-23 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-58-23 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-58-23 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-58-23 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-58-23 : elbarrak : DEBUG : Commande: 'run-sequence', Mode Exec global: '', Restore: '0', Args: [create_flag dependant]
+2025-06-01-18-58-23 : elbarrak : INFOS : Lancement séquence: [create_flag dependant] (Mode global: 'normal')
+2025-06-01-18-58-23 : elbarrak : INFOS : Séquence: Exécution de 'create_flag' (après 'START').
+2025-06-01-18-58-23 : elbarrak : DEBUG : run_script: alias 'create_flag' mode 'fork' args []
+2025-06-01-18-58-23 : elbarrak : INFOS : Début exécution script 'create_flag' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/create_flag.sh) à 2025-06-01 18:58:23 (mode: fork)
+2025-06-01-18-58-23 : elbarrak : DEBUG : run_script: 'create_flag' en mode fork/normal.
+2025-06-01-18-58-23 : elbarrak : INFOS : [create_flag] Début STDOUT script enfant:
+2025-06-01-18-58-23 : elbarrak : INFOS : [create_flag] STDOUT: Bonjour de script_creation_fichier.sh (modifié).
+2025-06-01-18-58-23 : elbarrak : INFOS : [create_flag] STDOUT: Je vais créer le fichier indicateur : indicateur_script_precedent.txt dans le répertoire courant.
+2025-06-01-18-58-23 : elbarrak : INFOS : [create_flag] STDOUT: Fichier indicateur 'indicateur_script_precedent.txt' créé avec succès.
+2025-06-01-18-58-23 : elbarrak : INFOS : [create_flag] Fin STDOUT script enfant.
+2025-06-01-18-58-23 : elbarrak : INFOS : Rapport pour 'create_flag' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_create_flag_20250601_185823.txt
+2025-06-01-18-58-23 : elbarrak : INFOS : Script 'create_flag' terminé succès (code: 0).
+2025-06-01-18-58-23 : elbarrak : INFOS : Séquence: Script 'create_flag' terminé avec succès.
+2025-06-01-18-58-23 : elbarrak : INFOS : Séquence: Exécution de 'dependant' (après 'create_flag').
+2025-06-01-18-58-23 : elbarrak : DEBUG : run_script: alias 'dependant' mode 'fork' args []
+2025-06-01-18-58-23 : elbarrak : ERROR : run_script: Alias 'dependant' non trouvé.
+2025-06-01-18-58-23 : elbarrak : ERROR : Séquence: Script 'dependant' a échoué (code: 161). Arrêt de la séquence.
+2025-06-01-18-58-23 : elbarrak : ERROR : Séquence interrompue par une erreur.
+2025-06-01-18-58-23 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-sequence'.
+2025-06-01-18-58-47 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-58-47 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-58-47 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-58-47 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-58-47 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-58-47 : elbarrak : DEBUG : Commande: 'add', Mode Exec global: '', Restore: '0', Args: [./test_scripts/script_dependant.sh dependant]
+2025-06-01-18-58-47 : elbarrak : DEBUG : Cmd 'add': path='./test_scripts/script_dependant.sh', alias='dependant'
+2025-06-01-18-58-47 : elbarrak : INFOS : Script './test_scripts/script_dependant.sh' ajouté (alias: 'dependant', géré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/dependant.sh).
+2025-06-01-18-58-47 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'add'.
+2025-06-01-18-58-50 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-18-58-50 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-18-58-50 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-18-58-50 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-18-58-50 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-18-58-50 : elbarrak : DEBUG : Commande: 'run-sequence', Mode Exec global: '', Restore: '0', Args: [create_flag dependant]
+2025-06-01-18-58-50 : elbarrak : INFOS : Lancement séquence: [create_flag dependant] (Mode global: 'normal')
+2025-06-01-18-58-50 : elbarrak : INFOS : Séquence: Exécution de 'create_flag' (après 'START').
+2025-06-01-18-58-50 : elbarrak : DEBUG : run_script: alias 'create_flag' mode 'fork' args []
+2025-06-01-18-58-50 : elbarrak : INFOS : Début exécution script 'create_flag' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/create_flag.sh) à 2025-06-01 18:58:50 (mode: fork)
+2025-06-01-18-58-50 : elbarrak : DEBUG : run_script: 'create_flag' en mode fork/normal.
+2025-06-01-18-58-50 : elbarrak : INFOS : [create_flag] Début STDOUT script enfant:
+2025-06-01-18-58-50 : elbarrak : INFOS : [create_flag] STDOUT: Bonjour de script_creation_fichier.sh (modifié).
+2025-06-01-18-58-50 : elbarrak : INFOS : [create_flag] STDOUT: Je vais créer le fichier indicateur : indicateur_script_precedent.txt dans le répertoire courant.
+2025-06-01-18-58-50 : elbarrak : INFOS : [create_flag] STDOUT: Fichier indicateur 'indicateur_script_precedent.txt' créé avec succès.
+2025-06-01-18-58-50 : elbarrak : INFOS : [create_flag] Fin STDOUT script enfant.
+2025-06-01-18-58-50 : elbarrak : INFOS : Rapport pour 'create_flag' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_create_flag_20250601_185850.txt
+2025-06-01-18-58-50 : elbarrak : INFOS : Script 'create_flag' terminé succès (code: 0).
+2025-06-01-18-58-50 : elbarrak : INFOS : Séquence: Script 'create_flag' terminé avec succès.
+2025-06-01-18-58-50 : elbarrak : INFOS : Séquence: Exécution de 'dependant' (après 'create_flag').
+2025-06-01-18-58-50 : elbarrak : DEBUG : run_script: alias 'dependant' mode 'fork' args []
+2025-06-01-18-58-50 : elbarrak : INFOS : Début exécution script 'dependant' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/dependant.sh) à 2025-06-01 18:58:50 (mode: fork)
+2025-06-01-18-58-50 : elbarrak : DEBUG : run_script: 'dependant' en mode fork/normal.
+2025-06-01-18-58-50 : elbarrak : INFOS : [dependant] Début STDOUT script enfant:
+2025-06-01-18-58-50 : elbarrak : INFOS : [dependant] STDOUT: Bonjour de script_dependant.sh.
+2025-06-01-18-58-50 : elbarrak : INFOS : [dependant] STDOUT: L'indicateur du script précédent a été trouvé !
+2025-06-01-18-58-50 : elbarrak : INFOS : [dependant] STDOUT: Fin de script_dependant.sh - SUCCES.
+2025-06-01-18-58-50 : elbarrak : INFOS : [dependant] Fin STDOUT script enfant.
+2025-06-01-18-58-50 : elbarrak : INFOS : Rapport pour 'dependant' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_dependant_20250601_185850.txt
+2025-06-01-18-58-50 : elbarrak : INFOS : Script 'dependant' terminé succès (code: 0).
+2025-06-01-18-58-51 : elbarrak : INFOS : Séquence: Script 'dependant' terminé avec succès.
+2025-06-01-18-58-51 : elbarrak : INFOS : Séquence terminée avec succès.
+2025-06-01-18-58-51 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-sequence'.
+2025-06-01-19-00-36 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-00-36 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-00-36 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-00-36 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-00-36 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-00-36 : elbarrak : DEBUG : Commande: 'run-sequence', Mode Exec global: '', Restore: '0', Args: [simple erreur long]
+2025-06-01-19-00-36 : elbarrak : INFOS : Lancement séquence: [simple erreur long] (Mode global: 'normal')
+2025-06-01-19-00-36 : elbarrak : INFOS : Séquence: Exécution de 'simple' (après 'START').
+2025-06-01-19-00-36 : elbarrak : DEBUG : run_script: alias 'simple' mode 'fork' args []
+2025-06-01-19-00-36 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 19:00:36 (mode: fork)
+2025-06-01-19-00-36 : elbarrak : DEBUG : run_script: 'simple' en mode fork/normal.
+2025-06-01-19-00-36 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-19-00-36 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-19-00-36 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 0 argument(s).
+2025-06-01-19-00-36 : elbarrak : INFOS : [simple] STDOUT: Aucun argument n'a été fourni.
+2025-06-01-19-00-36 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-19-00-36 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-19-00-36 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-19-00-36 : elbarrak : INFOS : Rapport pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_20250601_190036.txt
+2025-06-01-19-00-36 : elbarrak : INFOS : Script 'simple' terminé succès (code: 0).
+2025-06-01-19-00-36 : elbarrak : INFOS : Séquence: Script 'simple' terminé avec succès.
+2025-06-01-19-00-36 : elbarrak : INFOS : Séquence: Exécution de 'erreur' (après 'simple').
+2025-06-01-19-00-36 : elbarrak : DEBUG : run_script: alias 'erreur' mode 'fork' args []
+2025-06-01-19-00-36 : elbarrak : INFOS : Début exécution script 'erreur' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/erreur.sh) à 2025-06-01 19:00:36 (mode: fork)
+2025-06-01-19-00-36 : elbarrak : DEBUG : run_script: 'erreur' en mode fork/normal.
+2025-06-01-19-00-36 : elbarrak : INFOS : [erreur] Début STDOUT script enfant:
+2025-06-01-19-00-36 : elbarrak : INFOS : [erreur] STDOUT: Message normal avant l'erreur (stdout).
+2025-06-01-19-00-36 : elbarrak : INFOS : [erreur] Fin STDOUT script enfant.
+2025-06-01-19-00-36 : elbarrak : ERROR : [erreur] Début STDERR script enfant:
+2025-06-01-19-00-36 : elbarrak : ERROR : [erreur] STDERR: ERREUR: Une condition d'erreur simulée va se produire ! (stderr)
+2025-06-01-19-00-36 : elbarrak : ERROR : [erreur] STDERR: Fin de script_erreur.sh avant de sortir avec un code d'erreur.
+2025-06-01-19-00-36 : elbarrak : ERROR : [erreur] Fin STDERR script enfant.
+2025-06-01-19-00-36 : elbarrak : INFOS : Rapport pour 'erreur' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_erreur_20250601_190036.txt
+2025-06-01-19-00-36 : elbarrak : ERROR : Script 'erreur' terminé erreur (code: 55).
+2025-06-01-19-00-36 : elbarrak : ERROR : Séquence: Script 'erreur' a échoué (code: 55). Arrêt de la séquence.
+2025-06-01-19-00-36 : elbarrak : ERROR : Séquence interrompue par une erreur.
+2025-06-01-19-00-36 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-sequence'.
+2025-06-01-19-01-29 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-01-29 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-01-30 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-01-30 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-01-30 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-01-30 : elbarrak : DEBUG : Commande: 'run-sequence', Mode Exec global: 'subshell', Restore: '0', Args: [create_flag dependant]
+2025-06-01-19-01-30 : elbarrak : INFOS : Lancement séquence: [create_flag dependant] (Mode global: 'subshell')
+2025-06-01-19-01-30 : elbarrak : INFOS : Séquence: Exécution de 'create_flag' (après 'START').
+2025-06-01-19-01-30 : elbarrak : DEBUG : run_script: alias 'create_flag' mode 'subshell' args []
+2025-06-01-19-01-30 : elbarrak : INFOS : Début exécution script 'create_flag' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/create_flag.sh) à 2025-06-01 19:01:30 (mode: subshell)
+2025-06-01-19-01-30 : elbarrak : DEBUG : run_script: 'create_flag' en subshell.
+2025-06-01-19-01-30 : elbarrak : INFOS : [create_flag] Début STDOUT script enfant:
+2025-06-01-19-01-30 : elbarrak : INFOS : [create_flag] STDOUT: Bonjour de script_creation_fichier.sh (modifié).
+2025-06-01-19-01-30 : elbarrak : INFOS : [create_flag] STDOUT: Je vais créer le fichier indicateur : indicateur_script_precedent.txt dans le répertoire courant.
+2025-06-01-19-01-30 : elbarrak : INFOS : [create_flag] STDOUT: Fichier indicateur 'indicateur_script_precedent.txt' créé avec succès.
+2025-06-01-19-01-30 : elbarrak : INFOS : [create_flag] Fin STDOUT script enfant.
+2025-06-01-19-01-30 : elbarrak : INFOS : Rapport pour 'create_flag' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_create_flag_20250601_190130.txt
+2025-06-01-19-01-30 : elbarrak : INFOS : Script 'create_flag' terminé succès (code: 0).
+2025-06-01-19-01-30 : elbarrak : INFOS : Séquence: Script 'create_flag' terminé avec succès.
+2025-06-01-19-01-30 : elbarrak : INFOS : Séquence: Exécution de 'dependant' (après 'create_flag').
+2025-06-01-19-01-30 : elbarrak : DEBUG : run_script: alias 'dependant' mode 'subshell' args []
+2025-06-01-19-01-30 : elbarrak : INFOS : Début exécution script 'dependant' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/dependant.sh) à 2025-06-01 19:01:30 (mode: subshell)
+2025-06-01-19-01-30 : elbarrak : DEBUG : run_script: 'dependant' en subshell.
+2025-06-01-19-01-30 : elbarrak : INFOS : [dependant] Début STDOUT script enfant:
+2025-06-01-19-01-30 : elbarrak : INFOS : [dependant] STDOUT: Bonjour de script_dependant.sh.
+2025-06-01-19-01-30 : elbarrak : INFOS : [dependant] STDOUT: L'indicateur du script précédent a été trouvé !
+2025-06-01-19-01-30 : elbarrak : INFOS : [dependant] STDOUT: Fin de script_dependant.sh - SUCCES.
+2025-06-01-19-01-30 : elbarrak : INFOS : [dependant] Fin STDOUT script enfant.
+2025-06-01-19-01-30 : elbarrak : INFOS : Rapport pour 'dependant' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_dependant_20250601_190130.txt
+2025-06-01-19-01-30 : elbarrak : INFOS : Script 'dependant' terminé succès (code: 0).
+2025-06-01-19-01-30 : elbarrak : INFOS : Séquence: Script 'dependant' terminé avec succès.
+2025-06-01-19-01-30 : elbarrak : INFOS : Séquence terminée avec succès.
+2025-06-01-19-01-30 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-sequence'.
+2025-06-01-19-02-07 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-02-07 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-02-07 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-02-07 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-02-07 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-02-07 : elbarrak : DEBUG : Commande: 'run-parallel', Mode Exec global: '', Restore: '0', Args: [simple long]
+2025-06-01-19-02-07 : elbarrak : INFOS : Lancement parallèle: [simple long] (Mode global pour enfants: 'normal')
+2025-06-01-19-02-07 : elbarrak : DEBUG : run_script: alias 'simple' mode 'fork' args []
+2025-06-01-19-02-07 : elbarrak : DEBUG : run_script: alias 'long' mode 'fork' args []
+2025-06-01-19-02-07 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 19:02:07 (mode: fork)
+2025-06-01-19-02-07 : elbarrak : INFOS : Début exécution script 'long' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/long.sh) à 2025-06-01 19:02:07 (mode: fork)
+2025-06-01-19-02-07 : elbarrak : DEBUG : run_script: 'long' en mode fork/normal.
+2025-06-01-19-02-07 : elbarrak : DEBUG : run_script: 'simple' en mode fork/normal.
+2025-06-01-19-02-07 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-19-02-07 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-19-02-07 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 0 argument(s).
+2025-06-01-19-02-07 : elbarrak : INFOS : [simple] STDOUT: Aucun argument n'a été fourni.
+2025-06-01-19-02-07 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-19-02-07 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-19-02-07 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-19-02-07 : elbarrak : INFOS : Rapport pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_20250601_190207.txt
+2025-06-01-19-02-07 : elbarrak : INFOS : Script 'simple' terminé succès (code: 0).
+2025-06-01-19-02-07 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 2568) terminé.
+2025-06-01-19-02-10 : elbarrak : INFOS : [long] Début STDOUT script enfant:
+2025-06-01-19-02-10 : elbarrak : INFOS : [long] STDOUT: Début de script_long.sh (va dormir 3 secondes)...
+2025-06-01-19-02-10 : elbarrak : INFOS : [long] STDOUT: script_long.sh a terminé son attente.
+2025-06-01-19-02-10 : elbarrak : INFOS : [long] STDOUT: Sun Jun  1 07:02:10 PM +01 2025
+2025-06-01-19-02-10 : elbarrak : INFOS : [long] STDOUT: Fin de script_long.sh.
+2025-06-01-19-02-10 : elbarrak : INFOS : [long] Fin STDOUT script enfant.
+2025-06-01-19-02-10 : elbarrak : INFOS : Rapport pour 'long' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_long_20250601_190210.txt
+2025-06-01-19-02-10 : elbarrak : INFOS : Script 'long' terminé succès (code: 0).
+2025-06-01-19-02-10 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 2569) terminé.
+2025-06-01-19-02-10 : elbarrak : INFOS : Tous les scripts pour 'run-parallel' ont été lancés et terminés (ou sont en bg si -t). Vérifiez les rapports.
+2025-06-01-19-02-10 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-parallel'.
+2025-06-01-19-02-44 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-02-44 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-02-44 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-02-44 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-02-44 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-02-44 : elbarrak : DEBUG : Commande: 'run-parallel', Mode Exec global: 'background', Restore: '0', Args: [simple long]
+2025-06-01-19-02-44 : elbarrak : INFOS : Lancement parallèle: [simple long] (Mode global pour enfants: 'background')
+2025-06-01-19-02-44 : elbarrak : DEBUG : run_script: alias 'simple' mode 'background' args []
+2025-06-01-19-02-44 : elbarrak : DEBUG : run_script: alias 'long' mode 'background' args []
+2025-06-01-19-02-44 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 19:02:44 (mode: background)
+2025-06-01-19-02-44 : elbarrak : INFOS : Début exécution script 'long' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/long.sh) à 2025-06-01 19:02:44 (mode: background)
+2025-06-01-19-02-44 : elbarrak : DEBUG : run_script: 'long' en arrière-plan.
+2025-06-01-19-02-44 : elbarrak : DEBUG : run_script: 'simple' en arrière-plan.
+2025-06-01-19-02-44 : elbarrak : INFOS : Script 'simple' lancé en bg (PID: 2667).
+2025-06-01-19-02-44 : elbarrak : INFOS : Script 'long' lancé en bg (PID: 2665).
+2025-06-01-19-02-44 : elbarrak : INFOS : Rapport lancement bg pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_launched_20250601_190244.txt
+2025-06-01-19-02-44 : elbarrak : INFOS : Rapport lancement bg pour 'long' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_long_launched_20250601_190244.txt
+2025-06-01-19-02-44 : elbarrak : INFOS : [long] Début STDOUT script enfant:
+2025-06-01-19-02-44 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-19-02-44 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-19-02-44 : elbarrak : INFOS : [long] STDOUT: Début de script_long.sh (va dormir 3 secondes)...
+2025-06-01-19-02-44 : elbarrak : INFOS : [long] Fin STDOUT script enfant.
+2025-06-01-19-02-44 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 0 argument(s).
+2025-06-01-19-02-44 : elbarrak : INFOS : [simple] STDOUT: Aucun argument n'a été fourni.
+2025-06-01-19-02-44 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-19-02-44 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-19-02-44 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-19-02-44 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 2645) terminé.
+2025-06-01-19-02-44 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 2646) terminé.
+2025-06-01-19-02-44 : elbarrak : INFOS : Tous les scripts pour 'run-parallel' ont été lancés et terminés (ou sont en bg si -t). Vérifiez les rapports.
+2025-06-01-19-02-44 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-parallel'.
+2025-06-01-19-02-58 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-02-58 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-02-58 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-02-58 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-02-58 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-02-58 : elbarrak : DEBUG : Commande: 'run-parallel', Mode Exec global: 'background', Restore: '0', Args: [simple long]
+2025-06-01-19-02-58 : elbarrak : INFOS : Lancement parallèle: [simple long] (Mode global pour enfants: 'background')
+2025-06-01-19-02-58 : elbarrak : DEBUG : run_script: alias 'simple' mode 'background' args []
+2025-06-01-19-02-58 : elbarrak : DEBUG : run_script: alias 'long' mode 'background' args []
+2025-06-01-19-02-58 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 19:02:58 (mode: background)
+2025-06-01-19-02-58 : elbarrak : INFOS : Début exécution script 'long' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/long.sh) à 2025-06-01 19:02:58 (mode: background)
+2025-06-01-19-02-58 : elbarrak : DEBUG : run_script: 'simple' en arrière-plan.
+2025-06-01-19-02-58 : elbarrak : DEBUG : run_script: 'long' en arrière-plan.
+2025-06-01-19-02-58 : elbarrak : INFOS : Script 'simple' lancé en bg (PID: 2733).
+2025-06-01-19-02-58 : elbarrak : INFOS : Script 'long' lancé en bg (PID: 2734).
+2025-06-01-19-02-58 : elbarrak : INFOS : Rapport lancement bg pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_launched_20250601_190258.txt
+2025-06-01-19-02-58 : elbarrak : INFOS : Rapport lancement bg pour 'long' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_long_launched_20250601_190258.txt
+2025-06-01-19-02-58 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-19-02-58 : elbarrak : INFOS : [long] Début STDOUT script enfant:
+2025-06-01-19-02-58 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-19-02-58 : elbarrak : INFOS : [long] STDOUT: Début de script_long.sh (va dormir 3 secondes)...
+2025-06-01-19-02-58 : elbarrak : INFOS : [long] Fin STDOUT script enfant.
+2025-06-01-19-02-58 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 0 argument(s).
+2025-06-01-19-02-58 : elbarrak : INFOS : [simple] STDOUT: Aucun argument n'a été fourni.
+2025-06-01-19-02-58 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-19-02-58 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-19-02-58 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-19-02-58 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 2713) terminé.
+2025-06-01-19-02-58 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 2714) terminé.
+2025-06-01-19-02-58 : elbarrak : INFOS : Tous les scripts pour 'run-parallel' ont été lancés et terminés (ou sont en bg si -t). Vérifiez les rapports.
+2025-06-01-19-02-58 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-parallel'.
+2025-06-01-19-03-00 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-03-00 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-03-00 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-03-00 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-03-00 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-03-00 : elbarrak : DEBUG : Commande: 'run-parallel', Mode Exec global: 'background', Restore: '0', Args: [simple long]
+2025-06-01-19-03-00 : elbarrak : INFOS : Lancement parallèle: [simple long] (Mode global pour enfants: 'background')
+2025-06-01-19-03-00 : elbarrak : DEBUG : run_script: alias 'simple' mode 'background' args []
+2025-06-01-19-03-00 : elbarrak : DEBUG : run_script: alias 'long' mode 'background' args []
+2025-06-01-19-03-00 : elbarrak : INFOS : Début exécution script 'long' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/long.sh) à 2025-06-01 19:03:00 (mode: background)
+2025-06-01-19-03-00 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 19:03:00 (mode: background)
+2025-06-01-19-03-00 : elbarrak : DEBUG : run_script: 'long' en arrière-plan.
+2025-06-01-19-03-00 : elbarrak : DEBUG : run_script: 'simple' en arrière-plan.
+2025-06-01-19-03-00 : elbarrak : INFOS : Script 'long' lancé en bg (PID: 2801).
+2025-06-01-19-03-00 : elbarrak : INFOS : Script 'simple' lancé en bg (PID: 2800).
+2025-06-01-19-03-00 : elbarrak : INFOS : Rapport lancement bg pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_launched_20250601_190300.txt
+2025-06-01-19-03-00 : elbarrak : INFOS : Rapport lancement bg pour 'long' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_long_launched_20250601_190300.txt
+2025-06-01-19-03-00 : elbarrak : INFOS : [long] Début STDOUT script enfant:
+2025-06-01-19-03-00 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-19-03-00 : elbarrak : INFOS : [long] STDOUT: Début de script_long.sh (va dormir 3 secondes)...
+2025-06-01-19-03-00 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-19-03-00 : elbarrak : INFOS : [long] Fin STDOUT script enfant.
+2025-06-01-19-03-00 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 0 argument(s).
+2025-06-01-19-03-00 : elbarrak : INFOS : [simple] STDOUT: Aucun argument n'a été fourni.
+2025-06-01-19-03-00 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-19-03-00 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-19-03-00 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-19-03-00 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 2780) terminé.
+2025-06-01-19-03-00 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 2781) terminé.
+2025-06-01-19-03-00 : elbarrak : INFOS : Tous les scripts pour 'run-parallel' ont été lancés et terminés (ou sont en bg si -t). Vérifiez les rapports.
+2025-06-01-19-03-00 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-parallel'.
+2025-06-01-19-03-01 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-03-01 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-03-01 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-03-01 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-03-01 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-03-01 : elbarrak : DEBUG : Commande: 'run-parallel', Mode Exec global: 'background', Restore: '0', Args: [simple long]
+2025-06-01-19-03-01 : elbarrak : INFOS : Lancement parallèle: [simple long] (Mode global pour enfants: 'background')
+2025-06-01-19-03-01 : elbarrak : DEBUG : run_script: alias 'simple' mode 'background' args []
+2025-06-01-19-03-01 : elbarrak : DEBUG : run_script: alias 'long' mode 'background' args []
+2025-06-01-19-03-01 : elbarrak : INFOS : Début exécution script 'long' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/long.sh) à 2025-06-01 19:03:01 (mode: background)
+2025-06-01-19-03-01 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 19:03:01 (mode: background)
+2025-06-01-19-03-01 : elbarrak : DEBUG : run_script: 'long' en arrière-plan.
+2025-06-01-19-03-01 : elbarrak : DEBUG : run_script: 'simple' en arrière-plan.
+2025-06-01-19-03-01 : elbarrak : INFOS : Script 'long' lancé en bg (PID: 2868).
+2025-06-01-19-03-01 : elbarrak : INFOS : Script 'simple' lancé en bg (PID: 2867).
+2025-06-01-19-03-01 : elbarrak : INFOS : Rapport lancement bg pour 'long' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_long_launched_20250601_190301.txt
+2025-06-01-19-03-01 : elbarrak : INFOS : Rapport lancement bg pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_launched_20250601_190301.txt
+2025-06-01-19-03-01 : elbarrak : INFOS : [long] Début STDOUT script enfant:
+2025-06-01-19-03-01 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-19-03-01 : elbarrak : INFOS : [long] STDOUT: Début de script_long.sh (va dormir 3 secondes)...
+2025-06-01-19-03-01 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-19-03-01 : elbarrak : INFOS : [long] Fin STDOUT script enfant.
+2025-06-01-19-03-01 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 0 argument(s).
+2025-06-01-19-03-01 : elbarrak : INFOS : [simple] STDOUT: Aucun argument n'a été fourni.
+2025-06-01-19-03-01 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-19-03-01 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-19-03-01 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-19-03-01 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 2847) terminé.
+2025-06-01-19-03-01 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 2848) terminé.
+2025-06-01-19-03-01 : elbarrak : INFOS : Tous les scripts pour 'run-parallel' ont été lancés et terminés (ou sont en bg si -t). Vérifiez les rapports.
+2025-06-01-19-03-01 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-parallel'.
+2025-06-01-19-03-03 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-03-03 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-03-03 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-03-03 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-03-03 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-03-03 : elbarrak : DEBUG : Commande: 'run-parallel', Mode Exec global: 'background', Restore: '0', Args: [simple long]
+2025-06-01-19-03-03 : elbarrak : INFOS : Lancement parallèle: [simple long] (Mode global pour enfants: 'background')
+2025-06-01-19-03-03 : elbarrak : DEBUG : run_script: alias 'simple' mode 'background' args []
+2025-06-01-19-03-03 : elbarrak : DEBUG : run_script: alias 'long' mode 'background' args []
+2025-06-01-19-03-03 : elbarrak : INFOS : Début exécution script 'long' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/long.sh) à 2025-06-01 19:03:03 (mode: background)
+2025-06-01-19-03-03 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 19:03:03 (mode: background)
+2025-06-01-19-03-03 : elbarrak : DEBUG : run_script: 'long' en arrière-plan.
+2025-06-01-19-03-03 : elbarrak : DEBUG : run_script: 'simple' en arrière-plan.
+2025-06-01-19-03-03 : elbarrak : INFOS : Script 'simple' lancé en bg (PID: 2938).
+2025-06-01-19-03-03 : elbarrak : INFOS : Script 'long' lancé en bg (PID: 2936).
+2025-06-01-19-03-03 : elbarrak : INFOS : Rapport lancement bg pour 'long' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_long_launched_20250601_190303.txt
+2025-06-01-19-03-03 : elbarrak : INFOS : Rapport lancement bg pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_launched_20250601_190303.txt
+2025-06-01-19-03-03 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-19-03-03 : elbarrak : INFOS : [long] Début STDOUT script enfant:
+2025-06-01-19-03-04 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-19-03-04 : elbarrak : INFOS : [long] STDOUT: Début de script_long.sh (va dormir 3 secondes)...
+2025-06-01-19-03-04 : elbarrak : INFOS : [long] Fin STDOUT script enfant.
+2025-06-01-19-03-04 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 0 argument(s).
+2025-06-01-19-03-04 : elbarrak : INFOS : [simple] STDOUT: Aucun argument n'a été fourni.
+2025-06-01-19-03-04 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-19-03-04 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-19-03-04 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-19-03-04 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 2916) terminé.
+2025-06-01-19-03-04 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 2917) terminé.
+2025-06-01-19-03-04 : elbarrak : INFOS : Tous les scripts pour 'run-parallel' ont été lancés et terminés (ou sont en bg si -t). Vérifiez les rapports.
+2025-06-01-19-03-04 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-parallel'.
+2025-06-01-19-03-05 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-03-05 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-03-05 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-03-05 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-03-05 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-03-05 : elbarrak : DEBUG : Commande: 'run-parallel', Mode Exec global: 'background', Restore: '0', Args: [simple long]
+2025-06-01-19-03-05 : elbarrak : INFOS : Lancement parallèle: [simple long] (Mode global pour enfants: 'background')
+2025-06-01-19-03-05 : elbarrak : DEBUG : run_script: alias 'simple' mode 'background' args []
+2025-06-01-19-03-05 : elbarrak : DEBUG : run_script: alias 'long' mode 'background' args []
+2025-06-01-19-03-05 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 19:03:05 (mode: background)
+2025-06-01-19-03-05 : elbarrak : INFOS : Début exécution script 'long' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/long.sh) à 2025-06-01 19:03:05 (mode: background)
+2025-06-01-19-03-05 : elbarrak : DEBUG : run_script: 'simple' en arrière-plan.
+2025-06-01-19-03-05 : elbarrak : DEBUG : run_script: 'long' en arrière-plan.
+2025-06-01-19-03-05 : elbarrak : INFOS : Script 'long' lancé en bg (PID: 3006).
+2025-06-01-19-03-05 : elbarrak : INFOS : Script 'simple' lancé en bg (PID: 3004).
+2025-06-01-19-03-05 : elbarrak : INFOS : Rapport lancement bg pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_launched_20250601_190305.txt
+2025-06-01-19-03-05 : elbarrak : INFOS : Rapport lancement bg pour 'long' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_long_launched_20250601_190305.txt
+2025-06-01-19-03-05 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-19-03-05 : elbarrak : INFOS : [long] Début STDOUT script enfant:
+2025-06-01-19-03-05 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-19-03-05 : elbarrak : INFOS : [long] STDOUT: Début de script_long.sh (va dormir 3 secondes)...
+2025-06-01-19-03-05 : elbarrak : INFOS : [long] Fin STDOUT script enfant.
+2025-06-01-19-03-05 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 0 argument(s).
+2025-06-01-19-03-05 : elbarrak : INFOS : [simple] STDOUT: Aucun argument n'a été fourni.
+2025-06-01-19-03-05 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-19-03-05 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-19-03-05 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-19-03-05 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 2984) terminé.
+2025-06-01-19-03-05 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 2985) terminé.
+2025-06-01-19-03-05 : elbarrak : INFOS : Tous les scripts pour 'run-parallel' ont été lancés et terminés (ou sont en bg si -t). Vérifiez les rapports.
+2025-06-01-19-03-05 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-parallel'.
+2025-06-01-19-03-20 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-03-20 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-03-20 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-03-20 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-03-20 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-03-20 : elbarrak : DEBUG : Commande: 'run-parallel', Mode Exec global: 'background', Restore: '0', Args: [simple long erreur]
+2025-06-01-19-03-20 : elbarrak : INFOS : Lancement parallèle: [simple long erreur] (Mode global pour enfants: 'background')
+2025-06-01-19-03-20 : elbarrak : DEBUG : run_script: alias 'erreur' mode 'background' args []
+2025-06-01-19-03-20 : elbarrak : DEBUG : run_script: alias 'long' mode 'background' args []
+2025-06-01-19-03-20 : elbarrak : DEBUG : run_script: alias 'simple' mode 'background' args []
+2025-06-01-19-03-20 : elbarrak : INFOS : Début exécution script 'long' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/long.sh) à 2025-06-01 19:03:20 (mode: background)
+2025-06-01-19-03-20 : elbarrak : INFOS : Début exécution script 'erreur' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/erreur.sh) à 2025-06-01 19:03:20 (mode: background)
+2025-06-01-19-03-20 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 19:03:20 (mode: background)
+2025-06-01-19-03-20 : elbarrak : DEBUG : run_script: 'simple' en arrière-plan.
+2025-06-01-19-03-20 : elbarrak : DEBUG : run_script: 'long' en arrière-plan.
+2025-06-01-19-03-20 : elbarrak : DEBUG : run_script: 'erreur' en arrière-plan.
+2025-06-01-19-03-20 : elbarrak : INFOS : Script 'long' lancé en bg (PID: 3083).
+2025-06-01-19-03-20 : elbarrak : INFOS : Script 'erreur' lancé en bg (PID: 3087).
+2025-06-01-19-03-20 : elbarrak : INFOS : Script 'simple' lancé en bg (PID: 3084).
+2025-06-01-19-03-20 : elbarrak : INFOS : Rapport lancement bg pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_launched_20250601_190320.txt
+2025-06-01-19-03-20 : elbarrak : INFOS : Rapport lancement bg pour 'erreur' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_erreur_launched_20250601_190320.txt
+2025-06-01-19-03-20 : elbarrak : INFOS : Rapport lancement bg pour 'long' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_long_launched_20250601_190320.txt
+2025-06-01-19-03-20 : elbarrak : INFOS : [long] Début STDOUT script enfant:
+2025-06-01-19-03-20 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-19-03-20 : elbarrak : INFOS : [erreur] Début STDOUT script enfant:
+2025-06-01-19-03-20 : elbarrak : INFOS : [long] STDOUT: Début de script_long.sh (va dormir 3 secondes)...
+2025-06-01-19-03-20 : elbarrak : INFOS : [erreur] STDOUT: Message normal avant l'erreur (stdout).
+2025-06-01-19-03-20 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-19-03-20 : elbarrak : INFOS : [erreur] Fin STDOUT script enfant.
+2025-06-01-19-03-20 : elbarrak : INFOS : [long] Fin STDOUT script enfant.
+2025-06-01-19-03-20 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 0 argument(s).
+2025-06-01-19-03-20 : elbarrak : INFOS : [simple] STDOUT: Aucun argument n'a été fourni.
+2025-06-01-19-03-20 : elbarrak : ERROR : [erreur] Début STDERR script enfant:
+2025-06-01-19-03-20 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-19-03-20 : elbarrak : ERROR : [erreur] STDERR: ERREUR: Une condition d'erreur simulée va se produire ! (stderr)
+2025-06-01-19-03-20 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-19-03-20 : elbarrak : ERROR : [erreur] STDERR: Fin de script_erreur.sh avant de sortir avec un code d'erreur.
+2025-06-01-19-03-20 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-19-03-20 : elbarrak : ERROR : [erreur] Fin STDERR script enfant.
+2025-06-01-19-03-20 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 3053) terminé.
+2025-06-01-19-03-20 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 3054) terminé.
+2025-06-01-19-03-20 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 3055) terminé.
+2025-06-01-19-03-20 : elbarrak : INFOS : Tous les scripts pour 'run-parallel' ont été lancés et terminés (ou sont en bg si -t). Vérifiez les rapports.
+2025-06-01-19-03-20 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-parallel'.
+2025-06-01-19-03-26 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-03-26 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-03-26 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-03-26 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-03-26 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-03-26 : elbarrak : DEBUG : Commande: 'run-parallel', Mode Exec global: 'background', Restore: '0', Args: [simple long erreur]
+2025-06-01-19-03-26 : elbarrak : INFOS : Lancement parallèle: [simple long erreur] (Mode global pour enfants: 'background')
+2025-06-01-19-03-26 : elbarrak : DEBUG : run_script: alias 'simple' mode 'background' args []
+2025-06-01-19-03-26 : elbarrak : DEBUG : run_script: alias 'erreur' mode 'background' args []
+2025-06-01-19-03-26 : elbarrak : DEBUG : run_script: alias 'long' mode 'background' args []
+2025-06-01-19-03-26 : elbarrak : INFOS : Début exécution script 'erreur' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/erreur.sh) à 2025-06-01 19:03:26 (mode: background)
+2025-06-01-19-03-26 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 19:03:26 (mode: background)
+2025-06-01-19-03-26 : elbarrak : INFOS : Début exécution script 'long' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/long.sh) à 2025-06-01 19:03:26 (mode: background)
+2025-06-01-19-03-26 : elbarrak : DEBUG : run_script: 'erreur' en arrière-plan.
+2025-06-01-19-03-26 : elbarrak : DEBUG : run_script: 'long' en arrière-plan.
+2025-06-01-19-03-26 : elbarrak : DEBUG : run_script: 'simple' en arrière-plan.
+2025-06-01-19-03-26 : elbarrak : INFOS : Script 'erreur' lancé en bg (PID: 3178).
+2025-06-01-19-03-26 : elbarrak : INFOS : Script 'long' lancé en bg (PID: 3181).
+2025-06-01-19-03-26 : elbarrak : INFOS : Script 'simple' lancé en bg (PID: 3179).
+2025-06-01-19-03-26 : elbarrak : INFOS : Rapport lancement bg pour 'erreur' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_erreur_launched_20250601_190326.txt
+2025-06-01-19-03-26 : elbarrak : INFOS : Rapport lancement bg pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_launched_20250601_190326.txt
+2025-06-01-19-03-26 : elbarrak : INFOS : Rapport lancement bg pour 'long' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_long_launched_20250601_190326.txt
+2025-06-01-19-03-26 : elbarrak : INFOS : [erreur] Début STDOUT script enfant:
+2025-06-01-19-03-26 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-19-03-26 : elbarrak : INFOS : [long] Début STDOUT script enfant:
+2025-06-01-19-03-26 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-19-03-26 : elbarrak : INFOS : [erreur] STDOUT: Message normal avant l'erreur (stdout).
+2025-06-01-19-03-26 : elbarrak : INFOS : [long] STDOUT: Début de script_long.sh (va dormir 3 secondes)...
+2025-06-01-19-03-26 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 0 argument(s).
+2025-06-01-19-03-26 : elbarrak : INFOS : [erreur] Fin STDOUT script enfant.
+2025-06-01-19-03-26 : elbarrak : INFOS : [long] Fin STDOUT script enfant.
+2025-06-01-19-03-26 : elbarrak : INFOS : [simple] STDOUT: Aucun argument n'a été fourni.
+2025-06-01-19-03-26 : elbarrak : ERROR : [erreur] Début STDERR script enfant:
+2025-06-01-19-03-26 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-19-03-26 : elbarrak : ERROR : [erreur] STDERR: ERREUR: Une condition d'erreur simulée va se produire ! (stderr)
+2025-06-01-19-03-26 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-19-03-26 : elbarrak : ERROR : [erreur] STDERR: Fin de script_erreur.sh avant de sortir avec un code d'erreur.
+2025-06-01-19-03-26 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-19-03-26 : elbarrak : ERROR : [erreur] Fin STDERR script enfant.
+2025-06-01-19-03-26 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 3148) terminé.
+2025-06-01-19-03-26 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 3149) terminé.
+2025-06-01-19-03-26 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 3151) terminé.
+2025-06-01-19-03-26 : elbarrak : INFOS : Tous les scripts pour 'run-parallel' ont été lancés et terminés (ou sont en bg si -t). Vérifiez les rapports.
+2025-06-01-19-03-26 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-parallel'.
+2025-06-01-19-03-30 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-03-30 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-03-30 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-03-30 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-03-30 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-03-30 : elbarrak : DEBUG : Commande: 'run-parallel', Mode Exec global: '', Restore: '0', Args: [simple long erreur]
+2025-06-01-19-03-30 : elbarrak : INFOS : Lancement parallèle: [simple long erreur] (Mode global pour enfants: 'normal')
+2025-06-01-19-03-30 : elbarrak : DEBUG : run_script: alias 'long' mode 'fork' args []
+2025-06-01-19-03-30 : elbarrak : DEBUG : run_script: alias 'erreur' mode 'fork' args []
+2025-06-01-19-03-30 : elbarrak : DEBUG : run_script: alias 'simple' mode 'fork' args []
+2025-06-01-19-03-30 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 19:03:30 (mode: fork)
+2025-06-01-19-03-30 : elbarrak : INFOS : Début exécution script 'erreur' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/erreur.sh) à 2025-06-01 19:03:30 (mode: fork)
+2025-06-01-19-03-30 : elbarrak : INFOS : Début exécution script 'long' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/long.sh) à 2025-06-01 19:03:30 (mode: fork)
+2025-06-01-19-03-30 : elbarrak : DEBUG : run_script: 'long' en mode fork/normal.
+2025-06-01-19-03-30 : elbarrak : DEBUG : run_script: 'simple' en mode fork/normal.
+2025-06-01-19-03-30 : elbarrak : DEBUG : run_script: 'erreur' en mode fork/normal.
+2025-06-01-19-03-30 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-19-03-30 : elbarrak : INFOS : [erreur] Début STDOUT script enfant:
+2025-06-01-19-03-30 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-19-03-30 : elbarrak : INFOS : [erreur] STDOUT: Message normal avant l'erreur (stdout).
+2025-06-01-19-03-30 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 0 argument(s).
+2025-06-01-19-03-30 : elbarrak : INFOS : [simple] STDOUT: Aucun argument n'a été fourni.
+2025-06-01-19-03-30 : elbarrak : INFOS : [erreur] Fin STDOUT script enfant.
+2025-06-01-19-03-30 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-19-03-30 : elbarrak : ERROR : [erreur] Début STDERR script enfant:
+2025-06-01-19-03-30 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-19-03-30 : elbarrak : ERROR : [erreur] STDERR: ERREUR: Une condition d'erreur simulée va se produire ! (stderr)
+2025-06-01-19-03-31 : elbarrak : ERROR : [erreur] STDERR: Fin de script_erreur.sh avant de sortir avec un code d'erreur.
+2025-06-01-19-03-31 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-19-03-31 : elbarrak : ERROR : [erreur] Fin STDERR script enfant.
+2025-06-01-19-03-31 : elbarrak : INFOS : Rapport pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_20250601_190331.txt
+2025-06-01-19-03-31 : elbarrak : INFOS : Script 'simple' terminé succès (code: 0).
+2025-06-01-19-03-31 : elbarrak : INFOS : Rapport pour 'erreur' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_erreur_20250601_190331.txt
+2025-06-01-19-03-31 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 3243) terminé.
+2025-06-01-19-03-31 : elbarrak : ERROR : Script 'erreur' terminé erreur (code: 55).
+2025-06-01-19-03-33 : elbarrak : INFOS : [long] Début STDOUT script enfant:
+2025-06-01-19-03-33 : elbarrak : INFOS : [long] STDOUT: Début de script_long.sh (va dormir 3 secondes)...
+2025-06-01-19-03-33 : elbarrak : INFOS : [long] STDOUT: script_long.sh a terminé son attente.
+2025-06-01-19-03-33 : elbarrak : INFOS : [long] STDOUT: Sun Jun  1 07:03:33 PM +01 2025
+2025-06-01-19-03-34 : elbarrak : INFOS : [long] STDOUT: Fin de script_long.sh.
+2025-06-01-19-03-34 : elbarrak : INFOS : [long] Fin STDOUT script enfant.
+2025-06-01-19-03-34 : elbarrak : INFOS : Rapport pour 'long' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_long_20250601_190334.txt
+2025-06-01-19-03-34 : elbarrak : INFOS : Script 'long' terminé succès (code: 0).
+2025-06-01-19-03-34 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 3244) terminé.
+2025-06-01-19-03-34 : elbarrak : ERROR : Un processus wrapper parallèle (PID: 3246) a signalé une erreur (le script enfant a peut-être échoué).
+2025-06-01-19-03-34 : elbarrak : ERROR : 1 script(s) de 'run-parallel' ont rencontré des erreurs ou ont été lancés avec erreur.
+2025-06-01-19-03-34 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-parallel'.
+2025-06-01-19-03-52 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-03-52 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-03-52 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-03-52 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-03-53 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-03-53 : elbarrak : DEBUG : Commande: 'run-parallel', Mode Exec global: 'subshell', Restore: '0', Args: [simple long]
+2025-06-01-19-03-53 : elbarrak : INFOS : Lancement parallèle: [simple long] (Mode global pour enfants: 'subshell')
+2025-06-01-19-03-53 : elbarrak : DEBUG : run_script: alias 'simple' mode 'subshell' args []
+2025-06-01-19-03-53 : elbarrak : DEBUG : run_script: alias 'long' mode 'subshell' args []
+2025-06-01-19-03-53 : elbarrak : INFOS : Début exécution script 'simple' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/simple.sh) à 2025-06-01 19:03:53 (mode: subshell)
+2025-06-01-19-03-53 : elbarrak : INFOS : Début exécution script 'long' (/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts/long.sh) à 2025-06-01 19:03:53 (mode: subshell)
+2025-06-01-19-03-53 : elbarrak : DEBUG : run_script: 'simple' en subshell.
+2025-06-01-19-03-53 : elbarrak : DEBUG : run_script: 'long' en subshell.
+2025-06-01-19-03-53 : elbarrak : INFOS : [simple] Début STDOUT script enfant:
+2025-06-01-19-03-53 : elbarrak : INFOS : [simple] STDOUT: Bonjour de script_simple.sh !
+2025-06-01-19-03-53 : elbarrak : INFOS : [simple] STDOUT: Ce script a été appelé avec 0 argument(s).
+2025-06-01-19-03-53 : elbarrak : INFOS : [simple] STDOUT: Aucun argument n'a été fourni.
+2025-06-01-19-03-53 : elbarrak : INFOS : [simple] STDOUT: Variable d'environnement TEST_VAR: Non définie
+2025-06-01-19-03-53 : elbarrak : INFOS : [simple] STDOUT: Fin de script_simple.sh.
+2025-06-01-19-03-53 : elbarrak : INFOS : [simple] Fin STDOUT script enfant.
+2025-06-01-19-03-53 : elbarrak : INFOS : Rapport pour 'simple' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_simple_20250601_190353.txt
+2025-06-01-19-03-53 : elbarrak : INFOS : Script 'simple' terminé succès (code: 0).
+2025-06-01-19-03-53 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 3350) terminé.
+2025-06-01-19-03-56 : elbarrak : INFOS : [long] Début STDOUT script enfant:
+2025-06-01-19-03-56 : elbarrak : INFOS : [long] STDOUT: Début de script_long.sh (va dormir 3 secondes)...
+2025-06-01-19-03-56 : elbarrak : INFOS : [long] STDOUT: script_long.sh a terminé son attente.
+2025-06-01-19-03-56 : elbarrak : INFOS : [long] STDOUT: Sun Jun  1 07:03:56 PM +01 2025
+2025-06-01-19-03-56 : elbarrak : INFOS : [long] STDOUT: Fin de script_long.sh.
+2025-06-01-19-03-56 : elbarrak : INFOS : [long] Fin STDOUT script enfant.
+2025-06-01-19-03-56 : elbarrak : INFOS : Rapport pour 'long' généré: /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs/reports/report_long_20250601_190356.txt
+2025-06-01-19-03-56 : elbarrak : INFOS : Script 'long' terminé succès (code: 0).
+2025-06-01-19-03-56 : elbarrak : DEBUG : Processus wrapper parallèle (PID: 3351) terminé.
+2025-06-01-19-03-56 : elbarrak : INFOS : Tous les scripts pour 'run-parallel' ont été lancés et terminés (ou sont en bg si -t). Vérifiez les rapports.
+2025-06-01-19-03-56 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'run-parallel'.
+2025-06-01-19-04-26 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-04-26 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-04-26 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-04-26 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-04-27 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-04-27 : elbarrak : DEBUG : Commande: 'schedule', Mode Exec global: '', Restore: '0', Args: [add --script simple --time HH:MM_future --days *]
+2025-06-01-19-04-27 : elbarrak : DEBUG : Cmd 'schedule', sous-cmd: 'add', args: [--script simple --time HH:MM_future --days *]
+2025-06-01-19-04-27 : elbarrak : ERROR : Planification: Format heure 'HH:MM_future' invalide (HH:MM).
+2025-06-01-19-04-27 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'schedule'.
+2025-06-01-19-05-00 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-05-00 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-05-00 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-05-00 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-05-00 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-05-00 : elbarrak : DEBUG : Commande: 'schedule', Mode Exec global: '', Restore: '0', Args: [add --script simple --time 19:05 --days *]
+2025-06-01-19-05-00 : elbarrak : DEBUG : Cmd 'schedule', sous-cmd: 'add', args: [--script simple --time 19:05 --days *]
+2025-06-01-19-05-00 : elbarrak : INFOS : Planification (ID: d2095ee3) ajoutée pour 'simple' à 19:05 (date: *, jours: *).
+2025-06-01-19-05-00 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'schedule'.
+2025-06-01-19-07-12 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-07-12 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-07-12 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-07-12 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-07-12 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-07-12 : elbarrak : DEBUG : Commande: 'list', Mode Exec global: '', Restore: '0', Args: []
+2025-06-01-19-07-12 : elbarrak : INFOS : Exécution de la commande 'list'.
+2025-06-01-19-07-12 : elbarrak : INFOS : Liste des scripts affichée à l'utilisateur.
+2025-06-01-19-07-12 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'list'.
+2025-06-01-19-07-21 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-07-21 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-07-21 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-07-21 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-07-21 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-07-21 : elbarrak : DEBUG : Commande: 'remove', Mode Exec global: '', Restore: '0', Args: [long]
+2025-06-01-19-07-21 : elbarrak : DEBUG : Cmd 'remove': alias='long'
+2025-06-01-19-07-24 : elbarrak : DEBUG : Confirmation suppression 'long': 'oui'
+2025-06-01-19-07-24 : elbarrak : INFOS : Script 'long' supprimé.
+2025-06-01-19-07-24 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'remove'.
+2025-06-01-19-07-26 : elbarrak : DEBUG : Initialisation des répertoires applicatifs...
+2025-06-01-19-07-26 : elbarrak : DEBUG : CONFIG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/config
+2025-06-01-19-07-26 : elbarrak : DEBUG : MANAGED_SCRIPTS_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/managed_scripts
+2025-06-01-19-07-26 : elbarrak : DEBUG : OPT_LOG_DIR=/mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs
+2025-06-01-19-07-26 : elbarrak : DEBUG : Répertoires de logs et rapports prêts dans /mnt/c/Users/user/Desktop/ENSET/OS/mini projet/BashOrchestrator_Project/logs.
+2025-06-01-19-07-26 : elbarrak : DEBUG : Commande: 'list', Mode Exec global: '', Restore: '0', Args: []
+2025-06-01-19-07-26 : elbarrak : INFOS : Exécution de la commande 'list'.
+2025-06-01-19-07-26 : elbarrak : INFOS : Liste des scripts affichée à l'utilisateur.
+2025-06-01-19-07-26 : elbarrak : DEBUG : Exécution de BashOrchestrator terminée pour 'list'.
